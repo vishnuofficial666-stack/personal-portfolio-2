@@ -36,13 +36,6 @@ It showcases my web development about, skills,and contact details in a clean and
 
 ##  Live Demo
 
-🔗 Live Website: https://your-username.github.io/portfolio  
-🔗 GitHub Repository: https://github.com/your-username/portfolio
+-Live Website: https://your-username.github.io/portfolio  
 
 ---
-
-##  How to Use
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/portfolio.git
