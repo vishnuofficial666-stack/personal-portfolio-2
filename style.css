@@ -262,6 +262,7 @@ header .nav a:hover,.nav a:focus{
 }
 
 .vishnu{
+    object-fit:cover;
     border-radius: 50%;
     box-shadow: 2px 2px 50px var(--BLACK);
 }
