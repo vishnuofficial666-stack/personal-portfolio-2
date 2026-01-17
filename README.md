@@ -30,12 +30,13 @@ It showcases my web development about, skills,and contact details in a clean and
 
 ## portfolio website screenshot
 
-<img width="936" height="421" alt="Screenshot 2026-01-17 135312" src="https://github.com/user-attachments/assets/01d9bf88-e389-4d52-aa63-ad8c14631baf" />
+<img width="936" height="421" alt="Screenshot 2026-01-17 135312" src="https://github.com/user-attachments/assets/3289063f-a274-4972-99d7-be5cd817c1c3" />
+
 
 ---
 
 ##  Live Demo
 
--Live Website: https://your-username.github.io/portfolio  
+-Live Website: https://vishnuofficial666-stack.github.io/personal-portfolio-2/
 
 ---
